@@ -1,2 +1,2 @@
 # Space-Rocks
- GameMaker tutorial project
+ GameMaker tutorial project, just ignore!
